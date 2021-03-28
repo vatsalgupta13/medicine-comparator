@@ -3,8 +3,8 @@ Python scipts for Api Calls
 
 
 <h2>The Altered CSV file is not in this repository due to file restrictions</h2>
-(https://www.dropbox.com/s/a16wonw628z27ga/file2.csv?dl=0)<br><br>
-Download the CSV dataset from the link as it could not be uploaded due to Github size restrictions<br><br>
+(https://www.dropbox.com/s/a16wonw628z27ga/file2.csv?dl=0 or alternatively https://drive.google.com/file/d/1alkUu_-aTJL_Y8UyPCv7k91ydwAZSEIO/view?usp=sharing)<br><br>
+Download the CSV dataset from any of the given links as it could not be uploaded due to Github size restrictions<br><br>
 This file2.csv is already ready to be used but incase more entries need to be added, Delete the Alternatives column first , rename the file and follow the steps below<br><br>
 In order to have the Alternatives Generated :
 <ul>
